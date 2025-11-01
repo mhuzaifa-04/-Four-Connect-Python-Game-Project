@@ -4,7 +4,7 @@ This is a classic "Connect Four" (or "Four Connect") game built from scratch usi
 
 ### Demo
 
-![A demo of the Connect Four game in action. Player 2 (Yellow) wins with a vertical line.](https://i.imgur.com/8N4JpZt.png)
+![A demo of the Connect Four game in action. Player 2 (Yellow) wins with a vertical line.]([https://i.imgur.com/8N4JpZt.png](https://www.askpython.com/wp-content/uploads/2021/04/c4.jpg.webp))
 
 *(**Note:** You can create a GIF from your video and replace the image link above to show the game in action! A tool like [Ezgif](https://ezgif.com/video-to-gif) is great for this.)*
 
